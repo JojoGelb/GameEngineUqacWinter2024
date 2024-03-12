@@ -1,0 +1,8 @@
+/.cache/
+/.vs/*
+!/.vs/launch.vs.json
+/build/
+/out/
+/compile_commands.json
+/remise.zip
+*.spv
